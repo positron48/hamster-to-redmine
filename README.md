@@ -5,7 +5,7 @@ Simple python script for export your time from [hamster](https://github.com/proj
 
 Script dirrectly connect to Hamster's sqlite database file to get time data. Time data are grouped by number of task and send via [python-redmine](http://python-redmine.readthedocs.io/installation.html) to server.
 
-To use this script you need run in like this:
+To use this script you need run it like this:
 ```
 $ python hamster-to-redmine.py [date]
 ```
